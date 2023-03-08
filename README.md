@@ -1,2 +1,2 @@
-# wpsync_webspark
+# wpsync-webspark
 plugin for woocommerce
